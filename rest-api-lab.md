@@ -405,6 +405,7 @@ npm run dev
 
   ### บันทึกผลการทดลอง
   ![แทรกรูปผลการ Get ข้อมูลทั้งหมด](path/to/your/image.png)
+![messageImage_1740544222352](https://github.com/user-attachments/assets/42b4ed12-4085-47d9-8b73-601acf2fee78)
 
    b) Get Booking by ID:
    - สร้าง Request ใหม่ชื่อ "Get Booking by ID"
