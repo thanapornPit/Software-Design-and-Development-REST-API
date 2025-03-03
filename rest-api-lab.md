@@ -1,4 +1,4 @@
-![Screenshot 2025-03-03 210022](https://github.com/user-attachments/assets/17528340-d300-4fef-a768-f9e1a5b685de)# การพัฒนา REST API สำหรับระบบจองห้องพัก
+# การพัฒนา REST API สำหรับระบบจองห้องพัก
 
 ## ทฤษฎีที่เกี่ยวข้อง
 
