@@ -1,4 +1,4 @@
-# การพัฒนา REST API สำหรับระบบจองห้องพัก
+![Screenshot 2025-03-03 210022](https://github.com/user-attachments/assets/17528340-d300-4fef-a768-f9e1a5b685de)# การพัฒนา REST API สำหรับระบบจองห้องพัก
 
 ## ทฤษฎีที่เกี่ยวข้อง
 
@@ -426,6 +426,8 @@ npm run dev
 
   ### บันทึกผลการทดลอง
   ![แทรกรูปผลการแก้ไขข้อมูล](path/to/your/image.png)
+  ![122](https://github.com/user-attachments/assets/ee3aa1b8-7cad-4a2e-836c-ced0c6b2a0c3)
+
 
    d) Delete Booking:
    - สร้าง Request ใหม่ชื่อ "Delete Booking"
@@ -434,6 +436,7 @@ npm run dev
   
     ### บันทึกผลการทดลอง
   ![แทรกรูปผลการลบข้อมูล](path/to/your/image.png)
+![Screenshot 2025-03-03 210022](https://github.com/user-attachments/assets/747b294d-9c19-4124-8a56-0b5eb15e96bd)
 
   ### หยุดการทำงานของ API Server โดยกดปุ่ม Ctrl + c
 
