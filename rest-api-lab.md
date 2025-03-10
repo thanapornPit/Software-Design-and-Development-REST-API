@@ -728,6 +728,8 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
    ```
     ### บันทึกผลการทดลอง
   ![แทรกรูปผลการเพิ่มข้อมูล](path/to/your/image.png)
+  ![Screenshot 2025-03-10 215750](https://github.com/user-attachments/assets/ec4e54a4-ddce-4bce-8ee8-823006eb035a)
+
 
     ทำการเพิ่มข้อมูลอีกอย่างน้อย 2 ข้อมูล
 
