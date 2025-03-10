@@ -739,6 +739,7 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
    - 
     ### บันทึกผลการทดลอง
   ![แทรกรูปผลการเรียกดูข้อมูลทั้งหมด](path/to/your/image.png)
+![Screenshot 2025-03-10 220345](https://github.com/user-attachments/assets/c6d20e2a-b9fd-4e12-a50e-26064fec2afe)
 
    c. ดึงข้อมูลตาม ID (GET):
    - URL: `http://localhost:5000/api/bookings/1`
@@ -746,6 +747,7 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
 
     ### บันทึกผลการทดลอง
   ![แทรกรูปผลการเรียกดูข้อมูล](path/to/your/image.png)
+![Screenshot 2025-03-10 220531](https://github.com/user-attachments/assets/56554092-9a21-4539-a56e-2b8b457342ab)
 
    d. อัพเดตข้อมูล (PUT):
    - URL: `http://localhost:5000/api/bookings/1`
@@ -765,6 +767,7 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
    ```
     ### บันทึกผลการทดลอง
   ![แทรกรูปผลการแก้ไขข้อมูล](path/to/your/image.png)
+![Screenshot 2025-03-10 221304](https://github.com/user-attachments/assets/1b17cd7c-dd83-4257-82e4-e2a57216d0ed)
 
    e. ลบข้อมูล (DELETE):
    - URL: `http://localhost:5000/api/bookings/1`
@@ -772,3 +775,4 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
 
     ### บันทึกผลการทดลอง
   ![แทรกรูปผลการลบข้อมูล](path/to/your/image.png)
+![Screenshot 2025-03-10 221446](https://github.com/user-attachments/assets/c55590f9-5a43-4c15-9e33-85a80b26a9b1)
